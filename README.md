@@ -24,7 +24,7 @@
 ## 👋 About Me
 
 - 🔭 Currently working on **Nothing😭**
-- 🌱 Currently learning **Cyber Security and Ethical Hacking**
+- 🌱 Currently studing **Cyber Security and Ethical Hacking**
 - 💬 Ask me about **Anything😎**
 - 🤝 Looking to collaborate on **YOUR_INTERESTS**
 - 📍 Based in **Kathmandu, Nepal**
