@@ -64,9 +64,9 @@
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
-| [**Project One**](https://github.com/Zenconic/project-one) | One-line pitch of what it does and why it matters | `React` `Node.js` |
-| [**Project Two**](https://github.com/Zenconic/project-two) | One-line pitch of what it does and why it matters | `Python` `FastAPI` |
-| [**Project Three**](https://github.com/Zenconic/project-three) | One-line pitch of what it does and why it matters | `TypeScript` |
+| [**Project One**](https://github.com/Zenconic/project-one) | On its way | `React` `Node.js` |
+| [**Project Two**](https://github.com/Zenconic/project-two) | On its way | `Python` `FastAPI` |
+| [**Project Three**](https://github.com/Zenconic/project-three) | On its way | `TypeScript` |
 
 ---
 
