@@ -23,12 +23,12 @@
 
 ## 👋 About Me
 
-- 🔭 Currently working on **YOUR_PROJECT**
-- 🌱 Currently learning **YOUR_TECH** (e.g. Rust, System Design, ML)
-- 💬 Ask me about **YOUR_TOPICS**
+- 🔭 Currently working on **Nothing😭**
+- 🌱 Currently learning **Cyber Security and Ethical Hacking**
+- 💬 Ask me about **Anything😎**
 - 🤝 Looking to collaborate on **YOUR_INTERESTS**
-- 📍 Based in **Kathmandu, Nepal** *(edit or remove)*
-- ⚡ Fun fact: **SOMETHING_MEMORABLE**
+- 📍 Based in **Kathmandu, Nepal**
+- ⚡ Fun fact: **Lalalalalaaaaaaaaaa**
 
 ---
 
